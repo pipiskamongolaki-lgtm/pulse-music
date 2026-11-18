@@ -1,0 +1,4 @@
+.claude/
+STATUS.md
+node_modules/
+*.log
